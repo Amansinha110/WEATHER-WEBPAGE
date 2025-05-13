@@ -72,3 +72,7 @@ The JavaScript function getWeather() fetches weather data using OpenWeatherMap A
 The response is displayed dynamically on the webpage.
 
 To make it work, you need an API key from OpenWeatherMap, which you’ll replace in the placeholder YOUR_API_KEY.
+
+<div class="weather-icon">
+      <img src="" alt="">
+</div>
