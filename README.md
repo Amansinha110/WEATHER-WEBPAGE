@@ -74,5 +74,5 @@ The response is displayed dynamically on the webpage.
 To make it work, you need an API key from OpenWeatherMap, which you’ll replace in the placeholder YOUR_API_KEY.
 
 <div class="weather-icon">
-      <img src="" alt="">
+      <img src="https://github.com/Amansinha110/WEATHER-WEBPAGE/blob/master/Screenshot%202025-05-13%20062421.png" alt="Weather-webpage">
 </div>
